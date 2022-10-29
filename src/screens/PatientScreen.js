@@ -12,6 +12,7 @@ import {
 
 function PatientScreen(props) {
     return ( 
+      <PatientCard/>
 
      );
 }
