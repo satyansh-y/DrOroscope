@@ -20,11 +20,6 @@ import { Button, FAB } from "react-native-paper";
 function PatientScreen(props) {
   const [patientList, updatePatients] = useState([]);
   
-
-
-
-
-
   return (
     <SafeAreaView style={styles.layer}>
       
